@@ -6,6 +6,34 @@
 
 #### Supports C, C++, Python, Java
 
+# How to install ?
+
+First, download the file by [clicking here](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1/tbtKU-VS_Code-profile-v1-Windows.code-profile).
+
+This file should be downloaded to the 'Downloads' folder. Install VS Code from https://code.visualstudio.com. After installing VS CODE, open it and:
+
+1. `Settings icon` (Left-Down corner) > `Profile (Default)` > `Import Profile...`  
+   ![](/img/img1.png)
+
+2. click `Select File...`  
+   ![](/img/img2.png)
+
+3. Select the downloaded file (tbtKU-VS_Code-profile-...) and click `open`  
+   ![](/img/img3.png)
+
+4. click `Create Profile`  
+   ![](/img/img4.png)
+
+5. click `Create`  
+   ![](/img/img5.png)
+6. wait while VS Code downloads extensions and other files  
+   ![](/img/img6.png)
+
+7. If you notice something like "A pre-release version of ......", it is better to click `No` (pre-release version may lead buggy experience)  
+   ![](/img/img7.png)
+
+---
+
 # Description
 
 Beginner-friendly VS-Code profile (Configurations) for those who are going to start programming (focusing the individuals who have never coded before) and providing them a good start to the journey of Coding
@@ -26,35 +54,7 @@ Beginner-friendly VS-Code profile (Configurations) for those who are going to st
 
 ---
 
-# How to install ?
-
-First, download the file by [clicking here](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1/tbtKU-VS_Code-profile-v1-Windows.code-profile).
-
-Your file should be downloaded at 'Downloads' folder, Install VS Code from https://code.visualstudio.com. After installing VS CODE:
-
-1. `Settings icon` > `Profile (Default)` > `Import Profile...`  
-   ![](/img/img1.png)
-
-2. click `Select File...`  
-   ![](/img/img2.png)
-
-3. Select the downloaded file (tbtKU-VS_Code-profile-...) and click ``open  
-   ![](/img/img3.png)
-
-4. click `Create Profile`  
-   ![](/img/img4.png)
-
-5. click `Create`  
-   ![](/img/img5.png)
-6. wait while VS Code downloads extensions and other files  
-   ![](/img/img6.png)
-
-7. If you notice something like "A pre-release version of ......", it is better to click `No` (pre-release version may lead buggy experience)  
-   ![](/img/img7.png)
-
----
-
 Kazi Rifat Morshed  
 CSE KU 230220
 
-Special thanks goes to IAS Seam (CSEKU 230220)
+Special thanks goes to IAS Seam (CSEKU 230201)
