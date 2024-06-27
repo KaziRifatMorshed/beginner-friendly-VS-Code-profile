@@ -36,7 +36,8 @@ This file should be downloaded to the 'Downloads' folder. Install VS Code from h
 
 # Description
 
-Beginner-friendly VS-Code profile (Configurations) for those who are going to start programming (focusing the individuals who have never coded before) and providing them a good start to the journey of Coding
+Beginner-friendly VS-Code profile (Configurations) for those who will start programming (focusing on individuals who have never coded before) and providing a good start to the journey of Coding.
+Happy Coding `;)`
 
 ### Features:
 
