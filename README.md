@@ -10,9 +10,14 @@
 
 Don't panic! It is easy like a piece of cake ;)
 
-Prerequisite (Do these first):  
+Prerequisite (Do/confirm these first):  
 - Make sure you have downloaded and installed VS-Code. You can download VS-Code from https://code.visualstudio.com.    
-- To compile C, C++, you need to install a compiler for C/C++: [MinGW]() or [MSYS2](https://www.msys2.org). We prefer MSYS2.   - Follow this [YouTube video](https://youtu.be/hmlv-zgRFDs) for installing MSYS2 and adding Environment Variable.     - **If you have already compiler (either MinGW or MSYS2) installed and environment variable added successfully, YOU CAN SKIP THIS STEP.**
+
+- To compile C, C++, you need to install a compiler for C/C++: [MinGW]() or [MSYS2](https://www.msys2.org). We prefer MSYS2.   
+
+- Follow this [YouTube video](https://youtu.be/hmlv-zgRFDs) for installing MSYS2 and adding Environment Variable.     
+
+- **If you have already compiler (either MinGW or MSYS2) installed and environment variable added successfully, YOU CAN SKIP THIS STEP and move forward.**
 
 We'll continue with following easy steps to set up your coding environment in VS Code.
 
