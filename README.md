@@ -8,14 +8,14 @@
 
 # How to install ?
 
-Don't panic! It is easy like a piece of a cake ;)
+Don't panic! It is easy like a piece of cake ;)
 
 Prerequisite (Do these first):  
 Make sure you have downloaded and installed VS-Code. You can download VS-Code from https://code.visualstudio.com.  
 To compile C, C++, you need to install [MinGW]() or [MSYS2](https://www.msys2.org). We prefer MSYS2. Follow this [YouTube video]() for installing MSYS2 and adding Environment Variable.  
 We'll continue with following easy steps inside VS Code to set up your coding environment.
 
-1. Download the config file (ended with `.code-profile`) by [clicking here](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1/tbtKU-VS_Code-profile-v1-Windows.code-profile). This file should be downloaded to the 'Downloads' folder (dy Default, or, you should know/track download location).
+1. Download the config file (ended with `.code-profile`) by [clicking here](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1.1/tbtKU-VS_Code-profile-v1.1-Windows.code-profile). This file should be downloaded to the 'Downloads' folder (dy Default, or, you should know/track download location).
 
 2. `Settings icon` (Bottom-Left corner of VS-Code window) > `Profile (Default)` > `Import Profile...`  
    ![](/img/img1.png)
