@@ -1,6 +1,6 @@
 # beginner-friendly-VS-Code-profile
 
-### Current Version: v1 (28 June 2024)
+### Current Version: v1.1 (28 June 2024)
 
 ### Current Releases: Windows (NOTE: Linux and MAC will be added later)
 
@@ -8,42 +8,48 @@
 
 # How to install ?
 
-First, download the file by [clicking here](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1/tbtKU-VS_Code-profile-v1-Windows.code-profile).
+Don't panic! It is easy like a piece of a cake ;)
 
-This file should be downloaded to the 'Downloads' folder. Install VS Code from https://code.visualstudio.com. After installing VS CODE, open it and:
+Prerequisite (Do these first):  
+Make sure you have downloaded and installed VS-Code. You can download VS-Code from https://code.visualstudio.com.  
+To compile C, C++, you need to install [MinGW]() or [MSYS2](https://www.msys2.org). We prefer MSYS2. Follow this [YouTube video]() for installing MSYS2 and adding Environment Variable.  
+We'll continue with following easy steps inside VS Code to set up your coding environment.
 
-1. `Settings icon` (Left-Down corner) > `Profile (Default)` > `Import Profile...`  
+1. Download the config file (ended with `.code-profile`) by [clicking here](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1/tbtKU-VS_Code-profile-v1-Windows.code-profile). This file should be downloaded to the 'Downloads' folder (dy Default, or, you should know/track download location).
+
+2. `Settings icon` (Bottom-Left corner of VS-Code window) > `Profile (Default)` > `Import Profile...`  
    ![](/img/img1.png)
 
-2. click `Select File...`  
+3. click `Select File...`  
    ![](/img/img2.png)
 
-3. Select the downloaded file (tbtKU-VS_Code-profile-...) and click `open`  
+4. Select the downloaded file (tbtKU-VS_Code-profile-...) and click `open`  
    ![](/img/img3.png)
 
-4. click `Create Profile`  
+5. click `Create Profile`  
    ![](/img/img4.png)
 
-5. click `Create`  
+6. click `Create`  
    ![](/img/img5.png)
-6. wait while VS Code downloads extensions and other files  
+7. wait while VS Code downloads extensions and other files  
    ![](/img/img6.png)
 
-7. If you notice something like "A pre-release version of ......", it is better to click `No` (pre-release version may lead buggy experience)  
+8. If you notice something like "A pre-release version of ......", it is better to click `No` (pre-release version may lead buggy experience)  
    ![](/img/img7.png)
 
----
+<!-- --- -->
 
 # Description
 
-Beginner-friendly VS-Code profile (Configurations) for those who will start programming (focusing on individuals who have never coded before) and providing a good start to the journey of Coding.  
+Starting learning programming C/C++/Python ? Want to use VS-Code ? Use this beginner-friendly-VS-Code-profile (it easily configures your VS-Code ready for learning)  
 Happy Coding `;)`
 
 ### Features:
 
 - (Almost) Everything is pre-configured. Just plug-and-play ! (Download>install>EnjoyCoding)
 - Default theme set to "One Dark". You can change theme as your wish.
-- Compile and Run functions are configured for `C`, `CPP`, `Python`, `Java` (But you need to install Compiler/Interpreter on your own)
+- Compile and Run functions are configured for `C`, `CPP`, `Python`, `Java` as "Code-Runner" extension has been configured (But you need to install Compiler/Interpreter on your own)
+- Terminal Panel has been shift to right (inspired from )
 - Auto code formatting (Beautification and Indentation) while saving the file (`.c`,`.cpp`,`.py`,`.java`) with keyboard shortcut "`Ctrl` + `c`"
 - Snippet (initial code completion) for "C" (type `c` and hit 'Enter' for basic code structure/body, `pri` for `printf("");` and `scan` for `scanf("",&);`)
 - Text Warp is enabled (Solves [this](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F31025502%2Fhow-can-i-switch-word-wrap-on-and-off-in-visual-studio-code&psig=AOvVaw05koewMaISImJONV6njPwX&ust=1719605582459000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjaspbM_IYDFQAAAAAdAAAAABAE) issue)
@@ -51,7 +57,8 @@ Happy Coding `;)`
 ### WARNINGS
 
 - this PERFECTLY works only with VS CODE (https://code.visualstudio.com); to use this profile without issues in `OSS CODE` and `vscodium`, manual modification needed
-- It does not override your previous profile or configurations
+- Whenever you run C, C++, Python, or Java code in the VS Code terminal, **the entire terminal window clears. This means you will lose the history of previous outputs.**
+- It does not override your previous profile or configurations. Just adds a new profile. You can switch your previous one any time from "`Settings icon` (Bottom-Left corner of VS-Code window) > `Profile (...)` > `Default`"
 
 ---
 
