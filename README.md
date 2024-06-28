@@ -11,12 +11,12 @@
 Don't panic! It is easy like a piece of cake ;)
 
 Prerequisite (Do these first):  
-Make sure you have downloaded and installed VS-Code. You can download VS-Code from https://code.visualstudio.com.  
-To compile C, C++, you need to install [MinGW]() or [MSYS2](https://www.msys2.org). We prefer MSYS2. Follow this [YouTube video](https://youtu.be/hmlv-zgRFDs) for installing MSYS2 and adding Environment Variable. **If you have already compiler (either MinGW or MSYS2) installed and environment variable added successfully, YOU CAN SKIP THIS STEP.**
+- Make sure you have downloaded and installed VS-Code. You can download VS-Code from https://code.visualstudio.com.  
+- To compile C, C++, you need to install a compiler for C/C++: [MinGW]() or [MSYS2](https://www.msys2.org). We prefer MSYS2. - Follow this [YouTube video](https://youtu.be/hmlv-zgRFDs) for installing MSYS2 and adding Environment Variable. - **If you have already compiler (either MinGW or MSYS2) installed and environment variable added successfully, YOU CAN SKIP THIS STEP.**
 
-We'll continue with following easy steps inside VS Code to set up your coding environment.
+We'll continue with following easy steps to set up your coding environment in VS Code.
 
-1. Download the config file (ended with `.code-profile`) by [clicking here](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1.1/tbtKU-VS_Code-profile-v1.1-Windows.code-profile). This file should be downloaded to the 'Downloads' folder (dy Default, or, you should know/track your download location).
+1. Download the config file (ended with `.code-profile`) by [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download file")](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1.1/tbtKU-VS_Code-profile-v1.1-Windows.code-profile). This file should be downloaded to the 'Downloads' folder (dy Default, or, you should know/track your download location).
 
 2. `Settings icon` (Bottom-Left corner of VS-Code window) > `Profile (Default)` > `Import Profile...`  
    ![](/img/img1.png)
