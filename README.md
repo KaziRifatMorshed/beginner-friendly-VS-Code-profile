@@ -12,7 +12,8 @@ Don't panic! It is easy like a piece of cake ;)
 
 Prerequisite (Do these first):  
 Make sure you have downloaded and installed VS-Code. You can download VS-Code from https://code.visualstudio.com.  
-To compile C, C++, you need to install [MinGW]() or [MSYS2](https://www.msys2.org). We prefer MSYS2. Follow this [YouTube video]() for installing MSYS2 and adding Environment Variable. **If you have already compiler (either MinGW or MSYS2) installed and environment variable added successfully, YOU CAN SKIP THIS STEP.**  
+To compile C, C++, you need to install [MinGW]() or [MSYS2](https://www.msys2.org). We prefer MSYS2. Follow this [YouTube video](https://youtu.be/hmlv-zgRFDs) for installing MSYS2 and adding Environment Variable. **If you have already compiler (either MinGW or MSYS2) installed and environment variable added successfully, YOU CAN SKIP THIS STEP.**
+
 We'll continue with following easy steps inside VS Code to set up your coding environment.
 
 1. Download the config file (ended with `.code-profile`) by [clicking here](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1.1/tbtKU-VS_Code-profile-v1.1-Windows.code-profile). This file should be downloaded to the 'Downloads' folder (dy Default, or, you should know/track your download location).
