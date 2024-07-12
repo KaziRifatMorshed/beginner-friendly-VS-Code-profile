@@ -2,11 +2,11 @@
 
 ### Current Version: v1.2 (13 July 2024)
 
-### Current Releases: Windows (NOTE: Linux and MAC will be added later)
+### Current Releases: Windows and Linux (NOTE: MAC will be added later)
 
-#### Supports C, C++, Python, Java
+#### Supports C, C++, Python, Java, HTML, CSS
 
-# How to install ?
+# How to install?
 
 Don't panic! It is easy like a piece of cake ;)
 
@@ -14,15 +14,25 @@ Prerequisite (Do/confirm these first):
 
 - Make sure you have downloaded and installed VS-Code. You can download VS-Code from <https://code.visualstudio.com>.
 
-- To compile C, C++, you need to install a compiler for C/C++: [MinGW]() or [MSYS2](https://www.msys2.org). We prefer MSYS2.
+- To compile C, C++, you need to install a compiler for C/C++: [MinGW]() or [MSYS2](https://www.msys2.org). We prefer MSYS2 for Windows users.
 
-- Follow this [YouTube video](https://youtu.be/hmlv-zgRFDs) for installing MSYS2 and adding Environment Variable.
+- Follow this [YouTube video](https://youtu.be/hmlv-zgRFDs) for installing MSYS2 and adding Environment Variable for Windows.
 
-- **If you have already compiler (either MinGW or MSYS2) installed and environment variable added successfully, YOU CAN SKIP THIS STEP and move forward.**
+- For Linux Users, you should have `gcc` installed by default, but, you need to have "build-essential" installed (For Debian based UBUNTU, LINUX MINT users), please type `sudo apt get build-essential` in your terminal. 
+
+- **If you have already a compiler (either MinGW or MSYS2 for Windows, and, GCC or clang for Linux) installed and the environment variable added successfully, YOU CAN SKIP THIS STEP and move forward.**
+
+---
 
 We'll continue with following easy steps to set up your coding environment in VS Code.
 
-1. Download the configuration file (ended with `.code-profile`) by clicking the blue button: [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download file")](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1.1/tbtKU-VS_Code-profile-v1.1-Windows.code-profile). This file should be downloaded to the 'Downloads' folder (dy Default, or, you should know/track your download location).
+1. Download the configuration file (ended with `.code-profile`) by clicking the blue button:  
+
+WINDOWS: [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download file")](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1.2/tbtKU-VS_Code-profile-v1.2-Windows.code-profile).
+
+Linux: [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download file")](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1.2/tbtKU-VS_Code-profile-v1.2-Linux.code-profile).  
+
+This file should be downloaded to the 'Downloads' folder (by Default, or, you should know/track your download location).
 
 2. `Settings icon` (Bottom-Left corner of VS-Code window) > `Profile (Default)` > `Import Profile...`  
    ![](/img/img1.png)
@@ -38,6 +48,7 @@ We'll continue with following easy steps to set up your coding environment in VS
 
 6. click `Create`  
    ![](/img/img5.png)
+
 7. wait while VS Code downloads extensions and other files  
    ![](/img/img6.png)
 
@@ -48,27 +59,26 @@ We'll continue with following easy steps to set up your coding environment in VS
 
 # Description
 
-Starting learning programming C/C++/Python ? Want to use VS-Code ? Use this beginner-friendly-VS-Code-profile (it easily configures your VS-Code ready for learning)  
+Starting learning programming C/C++/Python? Want to use VS-Code? Use this beginner-friendly-VS-Code-profile (it easily configures your VS-Code ready for learning)  
 Happy Coding `;)`
 
 ### Features
 
-- (Almost) Everything is pre-configured. Just plug-and-play ! (Download>install>EnjoyCoding)
-- Default theme set to "One Dark". You can change theme as your wish.
+- (Almost) Everything is pre-configured. Just plug-and-play! (Download>install>EnjoyCoding)
+- Default theme set to "One Dark". You can change the theme as you wish.
 - Compile and Run functions are configured for `C`, `CPP`, `Python`, `Java` as "Code-Runner" extension has been configured (But you need to install Compiler/Interpreter on your own)
-- Terminal Panel has been shift to right (inspired from )
-- Auto code formatting (Beautification and Indentation) while saving the file (`.c`,`.cpp`,`.py`,`.java`) with keyboard shortcut "`Ctrl` + `c`"
+- Auto code formatting (Beautification and Indentation) while saving the file (`.c`,`.cpp`,`.py`,`.java`) with the keyboard shortcut "`Ctrl` + `c`"
 - Snippet (initial code completion) for "C" (type `c` and hit 'Enter' for basic code structure/body, `pri` for `printf("");` and `scan` for `scanf("",&);`)
 - Text Warp is enabled (Solves [this](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F31025502%2Fhow-can-i-switch-word-wrap-on-and-off-in-visual-studio-code&psig=AOvVaw05koewMaISImJONV6njPwX&ust=1719605582459000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjaspbM_IYDFQAAAAAdAAAAABAE) issue)
-- pre-added "Warm Up - Typing test" for practicing typing inside VS-Code. Practice makes a man perfect. `;)`
-- Most the extesions from [this free-code-camp article](https://www.freecodecamp.org/news/best-vscode-extensions/) are added, please visit this site and explore all extensions and how they work, individually. List of these extensions are: Better Comments, Code Spell Checker, CodeSnap, Material Icon Theme.
-- For Web Development, HTML CSS Support, Auto Close Tag, Auto Complete Tag, HTML End Tag Labels are pre-installed.
+- pre-added "Warm Up - Typing test" for practice typing inside VS-Code. Practice makes a man perfect. `;)`
+- Most of the extensions from [this free-code-camp article](https://www.freecodecamp.org/news/best-vscode-extensions/) are added, please visit this site and explore all extensions and how they work, individually. List of these extensions are: Better Comments, Code Spell Checker, CodeSnap, and Material Icon Theme.
+- For Web Development, HTML CSS Support, Auto Close Tag, Auto Complete Tag, and HTML End Tag Labels are pre-installed.
 - `cph` (Competative Programming Helper for CodeForces) and `vjudge` extensions.
-- `"editor.suggest.showWords": false,`, for this change in `settings.json`, intellisense in Visual Studio Code will not suggest words from your code.
+- `"editor.suggest.showWords": false,`, for this change in `settings.json`, IntelliSense in Visual Studio Code will not suggest words from your code.
 
 
 ### Fixes
-- line-height is set to default where it was set to 1.5 in first two releases(v1.1)
+- line-height is set to default where it was set to 1.5 in the first two releases(v1.1)
 
 
 ### WARNINGS
