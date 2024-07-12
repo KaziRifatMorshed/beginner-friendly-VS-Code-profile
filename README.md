@@ -67,6 +67,10 @@ Happy Coding `;)`
 - `"editor.suggest.showWords": false,`, for this change in `settings.json`, intellisense in Visual Studio Code will not suggest words from your code.
 
 
+### Fixes
+- line-height is set to default where it was set to 1.5 in first two releases(v1.1)
+
+
 ### WARNINGS
 
 - this PERFECTLY works only with VS CODE (<https://code.visualstudio.com>); to use this profile without issues in `OSS CODE` and `vscodium`, manual modification needed
