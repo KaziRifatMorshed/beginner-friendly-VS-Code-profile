@@ -1,6 +1,6 @@
 # beginner-friendly-VS-Code-profile
 
-### Current Version: v1.1 (28 June 2024)
+### Current Version: v1.2 (13 July 2024)
 
 ### Current Releases: Windows (NOTE: Linux and MAC will be added later)
 
@@ -11,11 +11,12 @@
 Don't panic! It is easy like a piece of cake ;)
 
 Prerequisite (Do/confirm these first):  
-- Make sure you have downloaded and installed VS-Code. You can download VS-Code from https://code.visualstudio.com.    
 
-- To compile C, C++, you need to install a compiler for C/C++: [MinGW]() or [MSYS2](https://www.msys2.org). We prefer MSYS2.   
+- Make sure you have downloaded and installed VS-Code. You can download VS-Code from <https://code.visualstudio.com>.
 
-- Follow this [YouTube video](https://youtu.be/hmlv-zgRFDs) for installing MSYS2 and adding Environment Variable.     
+- To compile C, C++, you need to install a compiler for C/C++: [MinGW]() or [MSYS2](https://www.msys2.org). We prefer MSYS2.
+
+- Follow this [YouTube video](https://youtu.be/hmlv-zgRFDs) for installing MSYS2 and adding Environment Variable.
 
 - **If you have already compiler (either MinGW or MSYS2) installed and environment variable added successfully, YOU CAN SKIP THIS STEP and move forward.**
 
@@ -50,7 +51,7 @@ We'll continue with following easy steps to set up your coding environment in VS
 Starting learning programming C/C++/Python ? Want to use VS-Code ? Use this beginner-friendly-VS-Code-profile (it easily configures your VS-Code ready for learning)  
 Happy Coding `;)`
 
-### Features:
+### Features
 
 - (Almost) Everything is pre-configured. Just plug-and-play ! (Download>install>EnjoyCoding)
 - Default theme set to "One Dark". You can change theme as your wish.
@@ -59,10 +60,16 @@ Happy Coding `;)`
 - Auto code formatting (Beautification and Indentation) while saving the file (`.c`,`.cpp`,`.py`,`.java`) with keyboard shortcut "`Ctrl` + `c`"
 - Snippet (initial code completion) for "C" (type `c` and hit 'Enter' for basic code structure/body, `pri` for `printf("");` and `scan` for `scanf("",&);`)
 - Text Warp is enabled (Solves [this](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F31025502%2Fhow-can-i-switch-word-wrap-on-and-off-in-visual-studio-code&psig=AOvVaw05koewMaISImJONV6njPwX&ust=1719605582459000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjaspbM_IYDFQAAAAAdAAAAABAE) issue)
+- pre-added "Warm Up - Typing test" for practicing typing inside VS-Code. Practice makes a man perfect. `;)`
+- Most the extesions from [this free-code-camp article](https://www.freecodecamp.org/news/best-vscode-extensions/) are added, please visit this site and explore all extensions and how they work, individually. List of these extensions are: Better Comments, Code Spell Checker, CodeSnap, Material Icon Theme.
+- For Web Development, HTML CSS Support, Auto Close Tag, Auto Complete Tag, HTML End Tag Labels are pre-installed.
+- `cph` (Competative Programming Helper for CodeForces) and `vjudge` extensions.
+- `"editor.suggest.showWords": false,`, for this change in `settings.json`, intellisense in Visual Studio Code will not suggest words from your code.
+
 
 ### WARNINGS
 
-- this PERFECTLY works only with VS CODE (https://code.visualstudio.com); to use this profile without issues in `OSS CODE` and `vscodium`, manual modification needed
+- this PERFECTLY works only with VS CODE (<https://code.visualstudio.com>); to use this profile without issues in `OSS CODE` and `vscodium`, manual modification needed
 - Whenever you run C, C++, Python, or Java code in the VS Code terminal, **the entire terminal window clears. This means you will lose the history of previous outputs.**
 - It does not override your previous profile or configurations. Just adds a new profile. You can switch your previous one any time from "`Settings icon` (Bottom-Left corner of VS-Code window) > `Profile (...)` > `Default`"
 
