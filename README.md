@@ -18,7 +18,7 @@ Prerequisites (Do/confirm these first):
 
 - Follow this [YouTube video](https://youtu.be/hmlv-zgRFDs) for installing MSYS2 and adding the path of the compiler to the Environment Variable of Windows.
 
-- For Linux Users, you should have `gcc` installed by default, but, you need to have "build-essential" installed (For Debian based UBUNTU, LINUX MINT users), please type `sudo apt-get install build-essential` in your terminal. 
+- For Linux Users, you should have `gcc` installed by default, but, you need to have "build-essential" installed (For Debian based UBUNTU, LINUX MINT users), please type `sudo apt-get install build-essential` in your terminal to install necessary packages for compiling (for Debian, Debian-like, ubuntu, linux mint users). 
 
 - **If you already have a compiler (either MinGW or MSYS2 for Windows, and, GCC or clang for Linux) installed and the path added to the environment variable successfully, YOU CAN SKIP THIS STEP and move forward.**
 
