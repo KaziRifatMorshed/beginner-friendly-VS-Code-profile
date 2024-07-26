@@ -18,7 +18,7 @@ Prerequisites (Do/confirm these first):
 
 - Follow this [YouTube video](https://youtu.be/hmlv-zgRFDs) for installing MSYS2 and adding the path of the compiler to the Environment Variable of Windows.
 
-- For Linux Users, you should have `gcc` installed by default, but, you need to have "build-essential" installed (For Debian based UBUNTU, LINUX MINT users), please type `sudo apt-get install build-essential` in your terminal. 
+- For Linux Users, you should have `gcc` installed by default, but, you need to have "build-essential" installed (For Debian based UBUNTU, LINUX MINT users), please type `sudo apt-get install build-essential` in your terminal to install necessary packages for compiling (for Debian, Debian-like, ubuntu, linux mint users). 
 
 - **If you already have a compiler (either MinGW or MSYS2 for Windows, and, GCC or clang for Linux) installed and the path added to the environment variable successfully, YOU CAN SKIP THIS STEP and move forward.**
 
@@ -67,7 +67,7 @@ Happy Coding `;)`
 - (Almost) Everything is pre-configured. Just plug-and-play! (Download>install>EnjoyCoding)
 - Default theme set to "One Dark". You can change the theme as you wish.
 - Compile and Run functions are configured for `C`, `CPP`, `Python`, `Java` as "Code-Runner" extension has been configured (But you need to install Compiler/Interpreter on your own)
-- Auto code formatting (Beautification and Indentation) while saving the file (`.c`,`.cpp`,`.py`,`.java`) with the keyboard shortcut "`Ctrl` + `c`"
+- Auto code formatting (Beautification and Indentation) while saving the file (`.c`,`.cpp`,`.py`,`.java`) with the keyboard shortcut "`Ctrl` + `s`"
 - Snippet (initial code completion) for "C" (type `c` and hit 'Enter' for basic code structure/body, `pri` for `printf("");` and `scan` for `scanf("",&);`)
 - Text Warp is enabled (Solves [this](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F31025502%2Fhow-can-i-switch-word-wrap-on-and-off-in-visual-studio-code&psig=AOvVaw05koewMaISImJONV6njPwX&ust=1719605582459000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjaspbM_IYDFQAAAAAdAAAAABAE) issue)
 - pre-added "Warm Up - Typing test" for practice typing inside VS-Code. Practice makes a man perfect. `;)`
