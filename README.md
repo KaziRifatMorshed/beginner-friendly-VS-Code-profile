@@ -59,7 +59,7 @@ This file should be downloaded to the 'Downloads' folder (by Default, or, you sh
 
 # Description
 
-Getting started with C/C++/Python programming? Want to use VS-Code? Use this beginner-friendly-VS-Code-profile (It easily configures your VS-Code ready for learning)  
+Getting started with C/C++/Python programming? Want to use VS-Code? Use this beginner-friendly-VS-Code-profile (It effortlessly configures your VS-Code, ready for learning)  
 Happy Coding `;)`
 
 ### Features
@@ -68,12 +68,12 @@ Happy Coding `;)`
 - Default theme set to "One Dark". You can change the theme as you wish.
 - Compile and Run functions are configured for `C`, `CPP`, `Python`, `Java` as "Code-Runner" extension has been configured (But you need to install Compiler/Interpreter on your own)
 - Auto code formatting (Beautification and Indentation) while saving the file (`.c`,`.cpp`,`.py`,`.java`) with the keyboard shortcut "`Ctrl` + `s`"
-- Snippet (initial code completion) for "C" (type `c` and hit 'Enter' for basic code structure/body, `pri` for `printf("");` and `scan` for `scanf("",&);`)
-- Text Warp is enabled (Solves [this](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F31025502%2Fhow-can-i-switch-word-wrap-on-and-off-in-visual-studio-code&psig=AOvVaw05koewMaISImJONV6njPwX&ust=1719605582459000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjaspbM_IYDFQAAAAAdAAAAABAE) issue)
-- pre-added "Warm Up - Typing test" for practice typing inside VS-Code. Practice makes a man perfect. `;)`
+- Snippet (Pre Generated Code) for "C" (type `c` and hit 'Enter' for basic code structure/body, `pri` for `printf("");` and `scan` for `scanf("",&);`)
+- Text Wrap is enabled (Solves [this](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F31025502%2Fhow-can-i-switch-word-wrap-on-and-off-in-visual-studio-code&psig=AOvVaw05koewMaISImJONV6njPwX&ust=1719605582459000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjaspbM_IYDFQAAAAAdAAAAABAE) issue)
+- pre-added "Warm Up - Typing test" for practicing typing inside VS-Code. Practice makes a man perfect. `;)`
 - Most of the extensions from [this free-code-camp article](https://www.freecodecamp.org/news/best-vscode-extensions/) are added, please visit this site and explore all extensions and how they work, individually. List of these extensions are: Better Comments, Code Spell Checker, CodeSnap, and Material Icon Theme.
 - For Web Development, HTML CSS Support, Auto Close Tag, Auto Complete Tag, and HTML End Tag Labels are pre-installed.
-- `cph` (Competative Programming Helper for CodeForces) and `vjudge` extensions.
+- `cph` (Competitive Programming Helper for CodeForces) and `vjudge` extensions.
 - `"editor.suggest.showWords": false,`, for this change in `settings.json`, IntelliSense in Visual Studio Code will not suggest words from your code.
 
 
@@ -83,8 +83,8 @@ Happy Coding `;)`
 
 ### WARNINGS
 
-- this PERFECTLY works only with VS CODE (<https://code.visualstudio.com>); to use this profile without issues in `OSS CODE` and `vscodium`, manual modification needed
-- Whenever you run C, C++, Python, or Java code in the VS Code terminal, **the entire terminal window clears. This means you will lose the history of previous outputs.**
+- this PERFECTLY works only with VS CODE (<https://code.visualstudio.com>); to use this profile without issues in `OSS CODE` and `vscodium`, manual modification is needed
+- Whenever you run C, C++, Python, or Java code in the VS Code terminal, **the entire terminal window clears. This means you will lose the history of previous outputs. due to this your code execution is also slightly slower.**
 - It does not override your previous profile or configurations. Just adds a new profile. You can switch your previous one any time from "`Settings icon` (Bottom-Left corner of VS-Code window) > `Profile (...)` > `Default`"
 
 ---
@@ -92,4 +92,4 @@ Happy Coding `;)`
 Kazi Rifat Morshed  
 CSE KU 230220
 
-Special thanks goes to IAS Seam (CSEKU 230201)
+Special thanks goes to Ibnul Abrar Shahriar Seam (CSE KU 230201)
