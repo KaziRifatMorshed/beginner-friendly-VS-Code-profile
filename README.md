@@ -10,23 +10,23 @@
 
 Don't panic! It is easy like a piece of cake ;)
 
-Prerequisite (Do/confirm these first):  
+Prerequisites (Do/confirm these first):  
 
 - Make sure you have downloaded and installed VS-Code. You can download VS-Code from <https://code.visualstudio.com>.
 
 - To compile C, C++, you need to install a compiler for C/C++: [MinGW]() or [MSYS2](https://www.msys2.org). We prefer MSYS2 for Windows users.
 
-- Follow this [YouTube video](https://youtu.be/hmlv-zgRFDs) for installing MSYS2 and adding Environment Variable for Windows.
+- Follow this [YouTube video](https://youtu.be/hmlv-zgRFDs) for installing MSYS2 and adding the path of the compiler to the Environment Variable of Windows.
 
-- For Linux Users, you should have `gcc` installed by default, but, you need to have "build-essential" installed (For Debian based UBUNTU, LINUX MINT users), please type `sudo apt get build-essential` in your terminal. 
+- For Linux Users, you should have `gcc` installed by default, but, you need to have "build-essential" installed (For Debian based UBUNTU, LINUX MINT users), please type `sudo apt-get install build-essential` in your terminal. 
 
-- **If you have already a compiler (either MinGW or MSYS2 for Windows, and, GCC or clang for Linux) installed and the environment variable added successfully, YOU CAN SKIP THIS STEP and move forward.**
+- **If you already have a compiler (either MinGW or MSYS2 for Windows, and, GCC or clang for Linux) installed and the path added to the environment variable successfully, YOU CAN SKIP THIS STEP and move forward.**
 
 ---
 
 We'll continue with following easy steps to set up your coding environment in VS Code.
 
-1. Download the configuration file (ended with `.code-profile`) by clicking the blue button:  
+1. Download the configuration file (ending with `.code-profile`) by clicking the blue button:  
 
 WINDOWS: [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download file")](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1.2/tbtKU-VS_Code-profile-v1.2-Windows.code-profile).
 
@@ -52,14 +52,14 @@ This file should be downloaded to the 'Downloads' folder (by Default, or, you sh
 7. wait while VS Code downloads extensions and other files  
    ![](/img/img6.png)
 
-8. If you notice something like "A pre-release version of ......", it is better to click `No` (pre-release version may lead buggy experience)  
+8. If you notice something like "A pre-release version of ......", it is better to click `No` (pre-release version may lead to buggy experience)  
    ![](/img/img7.png)
 
 <!-- --- -->
 
 # Description
 
-Starting learning programming C/C++/Python? Want to use VS-Code? Use this beginner-friendly-VS-Code-profile (it easily configures your VS-Code ready for learning)  
+Getting started with C/C++/Python programming? Want to use VS-Code? Use this beginner-friendly-VS-Code-profile (It easily configures your VS-Code ready for learning)  
 Happy Coding `;)`
 
 ### Features
