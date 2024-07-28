@@ -30,7 +30,7 @@ We'll continue with following easy steps to set up your coding environment in VS
 
 WINDOWS: [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download file")](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1.2/tbtKU-VS_Code-profile-v1.2-Windows.code-profile).
 
-Linux: [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download file")](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1.2/tbtKU-VS_Code-profile-v1.2-Linux.code-profile).  
+Linux: [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download file")](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1.3/tbtKU-VS_Code-profile-v1.2-Linux.code-profile).  
 
 This file should be downloaded to the 'Downloads' folder (by Default, or, you should know/track your download location).
 
