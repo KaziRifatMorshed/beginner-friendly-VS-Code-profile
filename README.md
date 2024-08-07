@@ -52,7 +52,7 @@ This file should be downloaded to the 'Downloads' folder (by Default, or, you sh
 7. wait while VS Code downloads extensions and other files  
    ![](/img/img6.png)
 
-8. If you notice something like "A pre-release version of ......", it is better to click `No` (pre-release version may lead to buggy experience)  
+8. If you notice something like "A pre-release version of ......", it is better to click `No` (pre-release version may lead to a buggy experience)  
    ![](/img/img7.png)
 
 <!-- --- -->
@@ -70,15 +70,15 @@ Happy Coding `;)`
 - Auto code formatting (Beautification and Indentation) while saving the file (`.c`,`.cpp`,`.py`,`.java`) with the keyboard shortcut "`Ctrl` + `s`"
 - Snippet (Pre Generated Code) for "C" (type `c` and hit 'Enter' for basic code structure/body, `pri` for `printf("");` and `scan` for `scanf("",&);`)
 - Text Wrap is enabled (Solves [this](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F31025502%2Fhow-can-i-switch-word-wrap-on-and-off-in-visual-studio-code&psig=AOvVaw05koewMaISImJONV6njPwX&ust=1719605582459000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjaspbM_IYDFQAAAAAdAAAAABAE) issue)
-- pre-added "Warm Up - Typing test" for practicing typing inside VS-Code. Practice makes a man perfect. `;)`
-- Most of the extensions from [this free-code-camp article](https://www.freecodecamp.org/news/best-vscode-extensions/) are added, please visit this site and explore all extensions and how they work, individually. List of these extensions are: Better Comments, Code Spell Checker, CodeSnap, and Material Icon Theme.
+- pre-added "Warm Up - Typing test" for practising typing inside VS-Code. Practice makes a man perfect. `;)`
+- Most of the extensions from [this free-code-camp article](https://www.freecodecamp.org/news/best-vscode-extensions/) are added, please visit this site and explore all extensions and how they work, individually. The list of these extensions are: Better Comments, Code Spell Checker, CodeSnap, and Material Icon Theme.
 - For Web Development, HTML CSS Support, Auto Close Tag, Auto Complete Tag, and HTML End Tag Labels are pre-installed.
 - `cph` (Competitive Programming Helper for CodeForces) and `vjudge` extensions.
 - `"editor.suggest.showWords": false,`, for this change in `settings.json`, IntelliSense in Visual Studio Code will not suggest words from your code.
 
 
 ### Fixes
-- line-height is set to default where it was set to 1.5 in the first two releases(v1.1)
+- line height is set to default where it was set to 1.5 in the first two releases(v1.1)
 
 
 ### WARNINGS
@@ -92,6 +92,7 @@ Happy Coding `;)`
 Kazi Rifat Morshed  
 CSE KU 230220
 
-Special thanks goes to Ibnul Abrar Shahriar Seam (CSE KU 230201)
+Special thanks go to Ibnul Abrar Shahriar Seam (CSE KU 230201)
 
+Forkers repo roster:  
 [![Forkers repo roster for @KaziRifatMorshed/beginner-friendly-VS-Code-profile](https://reporoster.com/forks/notext/KaziRifatMorshed/beginner-friendly-VS-Code-profile)](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/network/members) 
