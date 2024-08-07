@@ -1,6 +1,6 @@
 # beginner-friendly-VS-Code-profile
 
-### Current Version: v1.2 (13 July 2024) for windows and v1.3 (28 July 2024) for Linux
+### Current Version: v1.2 (13 July 2024) for Windows and v1.3 (28 July 2024) for Linux
 
 ### Current Releases: Windows and Linux (NOTE: MAC will be added later)
 
@@ -93,3 +93,5 @@ Kazi Rifat Morshed
 CSE KU 230220
 
 Special thanks goes to Ibnul Abrar Shahriar Seam (CSE KU 230201)
+
+[![Forkers repo roster for @KaziRifatMorshed/beginner-friendly-VS-Code-profile](https://reporoster.com/forks/notext/KaziRifatMorshed/beginner-friendly-VS-Code-profile)](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/network/members) 
