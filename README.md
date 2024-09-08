@@ -24,11 +24,11 @@ Prerequisites (Do/confirm these first):
 
 ---
 
-We'll continue with following easy steps to set up your coding environment in VS Code.
+We'll continue with the following easy steps to set up your coding environment in VS Code.
 
 1. Download the configuration file (ending with `.code-profile`) by clicking the blue button:  
 
-WINDOWS: [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download file")](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1.2/tbtKU-VS_Code-profile-v1.2-Windows.code-profile).
+WINDOWS: [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download file")](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1.3.1/tbtKU-VS_Code-profile-v1.3-Windows.code-profile).
 
 Linux: [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download file")](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1.3/tbtKU-VS_Code-profile-v1.2-Linux.code-profile).  
 
