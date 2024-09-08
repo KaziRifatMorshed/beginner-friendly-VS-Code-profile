@@ -6,7 +6,7 @@
 
 #### Supports C, C++, Python, Java, HTML, CSS
 
-# How to install?
+# How to install ?
 
 Don't panic! It is easy like a piece of cake ;)
 
