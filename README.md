@@ -1,6 +1,6 @@
 # beginner-friendly-VS-Code-profile
 
-### Current Version: v1.3 (08 August 2024) for Windows and v1.3 (28 July 2024) for Linux
+### Current Version: v1.3 (08 September 2024) for Windows and v1.3 (28 July 2024) for Linux
 ### Current Releases: Windows and Linux (NOTE: MAC will be added later)
 
 #### Supports C, C++, Python, Verilog, HTML, CSS
