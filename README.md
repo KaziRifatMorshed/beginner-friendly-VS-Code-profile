@@ -1,12 +1,11 @@
 # beginner-friendly-VS-Code-profile
 
-### Current Version: v1.2 (13 July 2024) for Windows and v1.3 (28 July 2024) for Linux
-
+### Current Version: v1.3 (08 September 2024) for Windows and v1.3 (28 July 2024) for Linux
 ### Current Releases: Windows and Linux (NOTE: MAC will be added later)
 
-#### Supports C, C++, Python, Java, HTML, CSS
+#### Supports C, C++, Python, Verilog, HTML, CSS
 
-# How to install ?
+# How to install?
 
 Don't panic! It is easy like a piece of cake ;)
 
@@ -24,11 +23,11 @@ Prerequisites (Do/confirm these first):
 
 ---
 
-We'll continue with following easy steps to set up your coding environment in VS Code.
+We'll continue with the following easy steps to set up your coding environment in VS Code.
 
 1. Download the configuration file (ending with `.code-profile`) by clicking the blue button:  
 
-WINDOWS: [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download file")](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1.2/tbtKU-VS_Code-profile-v1.2-Windows.code-profile).
+WINDOWS: [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download file")](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1.3.1/tbtKU-VS_Code-profile-v1.3-Windows.code-profile).
 
 Linux: [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download file")](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1.3/tbtKU-VS_Code-profile-v1.2-Linux.code-profile).  
 
