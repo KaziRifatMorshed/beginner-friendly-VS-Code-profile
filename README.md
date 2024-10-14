@@ -35,7 +35,9 @@ This file should be downloaded to the 'Downloads' folder (by Default, or, you sh
 
 Now, you can follow this video... 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FlT-wMfBJi4?si=mXrMv6_bqqUhEek6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FlT-wMfBJi4/0.jpg)](https://www.youtube.com/watch?v=FlT-wMfBJi4)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FlT-wMfBJi4?si=mXrMv6_bqqUhEek6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Description
 
