@@ -1,5 +1,9 @@
 # beginner-friendly-VS-Code-profile
 
+DOWNLOAD: WINDOWS: [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download file")](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1.3.1/tbtKU-VS_Code-profile-v1.3-Windows.code-profile).
+
+DOWNLOAD: Linux: [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download file")](https://github.com/KaziRifatMorshed/beginner-friendly-VS-Code-profile/releases/download/v1.3/tbtKU-VS_Code-profile-v1.2-Linux.code-profile).  
+
 ### Current Version: v1.3 (08 September 2024) for Windows and v1.3 (28 July 2024) for Linux
 ### Current Releases: Windows and Linux (NOTE: MAC will be added later)
 
