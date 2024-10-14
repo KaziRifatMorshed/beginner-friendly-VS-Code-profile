@@ -15,7 +15,7 @@ Prerequisites (Do/confirm these first):
 
 - To compile C, C++, you need to install a compiler for C/C++: [MinGW]() or [MSYS2](https://www.msys2.org). We prefer MSYS2 for Windows users.
 
-- Follow this [YouTube video](https://youtu.be/hmlv-zgRFDs) for installing MSYS2 and adding the path of the compiler to the Environment Variable of Windows.
+- Follow this [YouTube video](https://youtu.be/hmlv-zgRFDs) for installing MSYS2 and adding the compiler's path to the Environment Variable of Windows.
 
 - For Linux Users, you should have `gcc` installed by default, but, you need to have "build-essential" installed (For Debian based UBUNTU, LINUX MINT users), please type `sudo apt-get install build-essential` in your terminal to install necessary packages for compiling (for Debian, Debian-like, ubuntu, linux mint users). 
 
@@ -33,28 +33,9 @@ Linux: [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-b
 
 This file should be downloaded to the 'Downloads' folder (by Default, or, you should know/track your download location).
 
-2. `Settings icon` (Bottom-Left corner of VS-Code window) > `Profile (Default)` > `Import Profile...`  
-   ![](/img/img1.png)
+Now, you can follow this video... 
 
-3. click `Select File...`  
-   ![](/img/img2.png)
-
-4. Select the downloaded file (tbtKU-VS_Code-profile-...) and click `open`  
-   ![](/img/img3.png)
-
-5. click `Create Profile`  
-   ![](/img/img4.png)
-
-6. click `Create`  
-   ![](/img/img5.png)
-
-7. wait while VS Code downloads extensions and other files  
-   ![](/img/img6.png)
-
-8. If you notice something like "A pre-release version of ......", it is better to click `No` (pre-release version may lead to a buggy experience)  
-   ![](/img/img7.png)
-
-<!-- --- -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FlT-wMfBJi4?si=mXrMv6_bqqUhEek6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe
 
 # Description
 
